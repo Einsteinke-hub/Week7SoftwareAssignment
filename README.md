@@ -95,4 +95,4 @@ In future projects (e.g., a healthcare diagnostic tool), adopt a comprehensive e
 - This README preserves the original analysis and proposals while improving structure and readability.
 - If you want, I can add a short abstract, link references, or export this into a PDF for submission.
 
-**Author**: Student submission — Week 7 Software Assignment
+**Author**: Einstein Dipondo — Week 7 Software Assignment
